@@ -1,0 +1,57 @@
+body{
+
+    background-image: url(https://media.istockphoto.com/videos/seamless-3d-animation-abstract-neon-background-with-colorful-wavy-video-id1320336178?b=1&k=20&m=1320336178&s=640x640&h=vD2FE0IFq7cGURNsfDpy2CUzIJoU8Nfw9vyM9nlZoxw=);
+    background-size:cover;
+    background-position: center center;
+background-attachment: fixed;
+ color: white; 
+
+}
+h1{
+color:rgb(245, 245, 9);
+}
+.stars i{
+    font-size: 1.5rem;
+    color:rgb(243, 201, 15);
+}
+.title{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 40rem;
+    font-size: 4rem;
+    text-align: center;
+    
+    }
+    .card {
+        width: 90%;
+        max-width: 400px;
+        
+        border-radius: 1rem;
+        border: 1px solid transparent;
+        backdrop-filter: blur(1rem);
+        box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);
+        border-top-color: rgba(225, 225, 225, 0.5);
+border-left-color: rgba(225, 225, 225, 0.5);
+border-bottom-color: rgba(225, 225, 225, 0.1);
+border-right-color: rgba(225, 225, 225, 0.1);
+        }
+
+.cb1{
+    background-color: rgba(225,225,225,0.1);
+}
+.btn{
+    color:yellow;
+    font-size:20px;
+}
+.btn:hover{
+    color:rgb(10, 228, 240);
+}
+.job{
+    color:black;
+}
+.job:hover{
+    color:rgb(180, 180, 240);
+}
+p{
+    font-size:20px;
+}
